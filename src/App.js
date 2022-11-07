@@ -1,4 +1,4 @@
-import Header from './Components/Header';
+import Header from "./Components/Header"
 import SectionOne from './Components/section1';
 import SectionThree  from './Components/section3';
 import SectionTwo from './Components/section2';
